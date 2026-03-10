@@ -5,7 +5,7 @@
 You can view the live project here:
 
 **Live Demo Link:**
-https://kushal04-06.github.io/jdfs/
+https://kushal04-06.github.io/edu-portal/
 
 ---
 
